@@ -417,4 +417,4 @@ MIT
 ## Contributors
 
 - Claude Haiku 4.5 (AI Assistant)
-- Sheikh Muhammad Mujtaba (Project Owner)
+- Maham Babar (Project Owner)
